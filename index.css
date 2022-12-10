@@ -3,6 +3,7 @@ body{
     margin-left: 300PX;
     justify-content: center;
     margin-right: 300PX;
+    margin-bottom: 50px;
 }
 
 .Lets{
@@ -87,7 +88,8 @@ h4{
     body{
         
         justify-content:start;
-        margin: 0px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
     
     .Lets{
@@ -171,4 +173,5 @@ h4{
     section{
         align-items: center;
     }
+    
 }
